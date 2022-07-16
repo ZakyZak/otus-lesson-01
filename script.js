@@ -1,5 +1,6 @@
+//test sum
 
-  function sum(number) {
+function sum(number) {
     let result = number;
     function addition(s) {
         result += s;
