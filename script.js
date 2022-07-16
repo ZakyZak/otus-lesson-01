@@ -1,4 +1,4 @@
-//test sum
+//Sum func
 
 function sum(number) {
     let result = number;
